@@ -436,13 +436,13 @@ nav a[href="#media"] {
   }
 }
 /* ===== HERO SECTION (WELCOME) ===== */
-.hero {
-  background: linear-gradient(to right, #123a63, #1f5c8a); /* تدرج أزرق جميل */
-  color: white;
-  text-align: center;
+..hero {
+  background: #F36B21;   /* اللون البرتقالي لشعار ريزان */
+  color: white;          /* يجعل النص واضح فوق البرتقالي */
   padding: 60px 20px;
-  border-radius: 0 0 20px 20px;
+  text-align: center;
 }
+
 
 .hero h1,
 .hero h2,
