@@ -293,3 +293,8 @@ nav a[href="#media"] {
     height: 260px;
   }
 }
+.initiative-card a {
+  text-decoration: none !important;
+  color: inherit !important;
+  cursor: default;
+}
