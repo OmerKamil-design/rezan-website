@@ -457,3 +457,32 @@ nav a[href="#media"] {
   border-radius: 20px;
   margin-top: 40px;
 }
+.about-section {
+  background: #f9fbfc;
+  padding: 40px 20px;
+  border-radius: 8px;
+  margin-top: 40px;
+}
+
+.about-block {
+  margin-bottom: 30px;
+}
+
+.about-en {
+  font-size: 18px;
+  color: #444;
+  line-height: 1.7;
+}
+
+.about-ar {
+  font-size: 18px;
+  color: #444;
+  line-height: 1.8;
+  direction: rtl;
+  text-align: right;
+}
+
+.ar-title {
+  direction: rtl;
+  text-align: right;
+}
