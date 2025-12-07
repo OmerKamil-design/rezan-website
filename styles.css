@@ -435,3 +435,25 @@ nav a[href="#media"] {
     padding: 16px;
   }
 }
+/* ===== HERO SECTION (WELCOME) ===== */
+.hero {
+  background: linear-gradient(to right, #123a63, #1f5c8a); /* تدرج أزرق جميل */
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+  border-radius: 0 0 20px 20px;
+}
+
+.hero h1,
+.hero h2,
+.hero p {
+  color: white !important;
+}
+
+/* ===== ABOUT SECTION ===== */
+#about {
+  background: #f3f5f7; /* رمادي فاتح محترم */
+  padding: 50px 20px;
+  border-radius: 20px;
+  margin-top: 40px;
+}
